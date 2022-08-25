@@ -3,10 +3,10 @@ import Header from './Header';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Footer from './Footer';
+import Contact from './pages/Contact';
 
 // import NavTabs from './NavTabs';
 // import About from './pages/About';
-// import Contact from './pages/Contact';
 
 
 export default function PortContainer() {
@@ -17,6 +17,7 @@ export default function PortContainer() {
             <Header />
             <About />
             <Portfolio />
+            <Contact />
             <Footer />
 
         </>
