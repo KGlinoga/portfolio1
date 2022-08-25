@@ -1,11 +1,7 @@
+import React from "react";
+import PortContainer from "./components/PortContainer";
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
-}
+const App = () => <PortContainer />;
 
 export default App;
