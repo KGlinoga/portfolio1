@@ -3,7 +3,7 @@ import React from 'react';
 export default function Footer() {
     return (
         <>
-            <h1 className="panel-footer container-fluid text-center">KG</h1>
+            <h5 className="panel-footer container-fluid text-center">Let's work together! email: kglinoga@gmail.com </h5>
         </>
     );
 };

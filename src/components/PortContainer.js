@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import Header from './Header';
+import About from './pages/About';
+import Portfolio from './pages/Portfolio';
 import Footer from './Footer';
+
 // import NavTabs from './NavTabs';
-import Home from './pages/About';
 // import About from './pages/About';
 // import Contact from './pages/Contact';
 
@@ -13,7 +15,8 @@ export default function PortContainer() {
     return (
         <>
             <Header />
-            <Home />
+            <About />
+            <Portfolio />
             <Footer />
 
         </>
