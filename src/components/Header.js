@@ -4,6 +4,7 @@ export default function Header() {
     return (
         <>
             <h1 className="">Kristina Glinoga</h1>
+            
         </>
     );
 };
