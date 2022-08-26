@@ -3,10 +3,12 @@ import React from 'react';
 
 export default function Header() {
     return (
-        <>
-            <h1 className="">Kristina Glinoga</h1>
+        <div className="row header">
+            <div className="col-md-12">
+                <h1 className="">Kristina Glinoga</h1> <h4>Web Developer</h4> 
             {/* <Navigation /> */}
-        </>
+            </div>
+        </div>
     );
 };
 

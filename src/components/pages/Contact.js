@@ -11,7 +11,7 @@ export default function Contact() {
             <p>email: kglinoga@gmail.com</p>
             <p>Instagram: @kristinacodes</p>
             <p>YouTube: @butchery101</p>
-            <p>LinkedIn: www.linkedin.com/kglinoga</p>
+            <p>GitHub: <a href="https://github.com/KGlinoga">Kristina Glinoga</a></p>
         </div>
     );
 }
