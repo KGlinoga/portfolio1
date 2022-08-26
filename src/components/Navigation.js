@@ -7,7 +7,7 @@ function Navigation({ currentPage, handlePageChange }) {
         <div className="row">
             {/* <div className="col-xs-0 col-md-4 col-lg-6"></div> */}
             <div>
-        <ul className="nav nav-tabs">
+                <ul className="nav nav-tabs nav-justified">
             <li className="nav-item">
                 <a
                     href="#about"
