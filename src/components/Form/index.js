@@ -46,7 +46,7 @@ function Form() {
 
     return (
         <div>
-            <p>Hello {userName}</p>
+            <p>Hello {userName}!</p>
             <form className="form">
 
                 <input
@@ -55,7 +55,10 @@ function Form() {
                     onChange={handleInputChange}
                     type="text"
                     placeholder="Your Name"
+                    class="form-control"
                 />
+
+                <br />
 
                 <input
                     value={email}
@@ -63,7 +66,10 @@ function Form() {
                     onChange={handleInputChange}
                     type="email"
                     placeholder="Your Email"
+                    class="form-control"
                 />
+
+                <br/>
 
                 <input
                     value={message}
@@ -71,7 +77,10 @@ function Form() {
                     onChange={handleInputChange}
                     type="text"
                     placeholder="What would you like to talk about?"
+                    class="form-control"
                 />
+
+                <br />
 
                 <button type="button" onClick={handleFormSubmit}>Submit</button>
                 
