@@ -37,6 +37,24 @@
   }
 } */
 
+* {
+  background: #fdfcf5;
+  color: #673c48;
+}
+
+.header {
+  background: #F4ACB7;
+  color: #673c48
+}
+
+.header h4 {
+  background: #F4ACB7;
+  color: #673c48;
+}
+
 .panel-footer {
-  color: pink;
+  margin: 0;
+  padding: 0;
+  background: #F4ACB7;
+  color:#673c48;
 }

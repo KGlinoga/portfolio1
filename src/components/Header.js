@@ -3,9 +3,9 @@ import React from 'react';
 
 export default function Header() {
     return (
-        <div className="row header">
-            <div className="col-md-12">
-                <h1 className="">Kristina Glinoga</h1> <h4>Web Developer</h4> 
+        <div className="header row">
+            <div className="header col-md-12">
+                <h1 className="header">Kristina Glinoga</h1> <h4>Web Developer</h4> 
             {/* <Navigation /> */}
             </div>
         </div>
