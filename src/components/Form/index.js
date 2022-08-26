@@ -27,21 +27,21 @@ function Form() {
         e.preventDefault();
         
         if (!validateEmail(email) || !userName) {
-            setErrorMessage('Email or username if invalid');
+            alert('Email or username is invalid');
             return;
         }
 
         if (!message) {
-            setErrorMessage(
+            alert(
                 `Hey ${userName}! Don't forget to let me know what you want to talk about!`
             );
-            return
+            return;
         }
         alert(`Thanks for reading out ${userName}!  I'll be in touch soon!`);
 
         setUserName('');
         setEmail('');
-        setMessage('');
+        setMessage('')
     };
 
     return (

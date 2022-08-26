@@ -14,7 +14,7 @@ export default function Contact() {
             <p>YouTube: @butchery101</p>
             <p>GitHub: <a href="https://github.com/KGlinoga">Kristina Glinoga</a></p>
 
-            <Form />;
+            <Form />
 
         </div>
     );
