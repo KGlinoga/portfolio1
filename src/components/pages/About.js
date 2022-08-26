@@ -10,6 +10,8 @@ export default function About() {
                 </div>
             </div>
 
+            <img src="./assets/headshot.jpg"></img>
+
         
             <div className="row">
                 <div className="col-md-4 col-sm-6 col-xs-12 img img-responsive">

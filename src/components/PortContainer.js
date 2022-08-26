@@ -17,13 +17,14 @@ export default function PortContainer() {
         if (currentPage === 'Portfolio') {
             return <Portfolio />;
         }
+    
         return <Contact />;
     };
 
     const handlePageChange = (page) => setCurrentPage(page);
     
     return (
-        <div className="container-fluid">
+        <div className="container-fluid body">
             <Header />
             <Navigation
                 currentPage={currentPage}

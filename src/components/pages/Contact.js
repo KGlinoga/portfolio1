@@ -13,7 +13,7 @@ export default function Contact() {
             <p>Instagram: @kristinacodes</p>
             <p>YouTube: @butchery101</p>
             <p>GitHub: <a href="https://github.com/KGlinoga">Kristina Glinoga</a></p>
-
+            <a href="./assets/Resume.pdf" target="_blank">Resume</a>
             <Form />
 
         </div>

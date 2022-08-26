@@ -3,8 +3,8 @@ import React from 'react';
 export default function Footer() {
     return (
        
-        <div class="panel fixed-bottom">
-                <div class="panel-body">
+        <div className="panel fixed-bottom">
+                <div className="panel-body">
                
                 </div>
                 <h5 className="panel-footer container-fluid text-center ">Let's work together! email: <a href="mailto: kglinoga@gmail.com" className="panel-footer">kglinoga@gmail.com</a> </h5>
