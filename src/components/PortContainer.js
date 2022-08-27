@@ -17,7 +17,9 @@ export default function PortContainer() {
         if (currentPage === 'Portfolio') {
             return <Portfolio />;
         }
-    
+        if (currentPage === 'Resume') {
+            return <Resume />;
+        }
         return <Contact />;
     };
 
