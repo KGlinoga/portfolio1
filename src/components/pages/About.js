@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './About.css';
 
 export default function About() {
     return (
@@ -14,14 +14,14 @@ export default function About() {
         
             <div className="row">
 
-                <div className="col-md-4 col-sm-6 col-xs-12 img img-responsive">
-                    <a href="#" class="thumbnail">
-                    <img src="./assets/headshot.jpg" alt="A friendly web dev with glasses and dark hair."></img>
-                    </a>
+                <div className="col-md-4 col-sm-6 col-xs-12 img img-responsive img-rounded">
+                
+                        <img src="./assets/avatar.png" alt="A friendly web dev with glasses and dark hair." className=""></img>
+                
                 </div>
             
                 <div className="col-md-8 col-sm-6 col-xs-12">
-                    <p>My name is Kristina Glinoga.  I am a budding web developer, looking for folks who value equity, work/life balance, and social justice. 
+                    <p>My name is Kristina Glinoga.  I am a web developer hoping to work with folks who value equity, work/life balance, and social justice. 
                     </p>
 
                     <p>In the following sections you can find my projects and contact info.</p>
