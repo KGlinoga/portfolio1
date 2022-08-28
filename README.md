@@ -4,7 +4,7 @@
 
   ## Description
   
-  This assignment was meant to demonstrate proficiency and understanding of React, Bootstrap, and GitHub pages.  
+  This assignment was meant to demonstrate proficiency and understanding of React, Bootstrap, and GitHub pages. Please note that under Portfolio I am using place-holder information (images, text, etc) and will populate this with my real projects after bootcamp is done.   
 
   ## Table of Contents
   
@@ -39,7 +39,7 @@
   
   Please none.
 
-  Find me, kglinoag, this code and more on GitHub: <https://github.com/kglinoag>
+  Find me, kglinoga, this code and more on GitHub: <https://github.com/kglinoag>
 
   Email me any questions at <kglinoga@gmail.com>
 
