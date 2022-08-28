@@ -13,6 +13,11 @@ export default function Card(props) {
                     src="https://secure.img1-fg.wfcdn.com/im/07042854/resize-h445%5Ecompr-r85/4518/45180826/Wrapped+Canvas+Photograph.jpg"
                     alt="app screenshot"
                 />
+                <img
+                    className="card-img-top"
+                    src={`http://placecorgi.com/`}
+                    alt="Card cap"
+                />
                 <div className="card-body">
                     <h5 className="card-title"> {props.title}</h5>
                 </div>

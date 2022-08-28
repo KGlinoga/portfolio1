@@ -1,4 +1,5 @@
 import React from 'react';
+import Card from './Card';
 
 // import logo from './logo192.png';
 
@@ -17,6 +18,7 @@ import React from 'react';
 export default function Project({ projects }) {
     return (
         <div>
+            <Card />
             <h1 >{projects.title}</h1>
             {/* {props.projects.map(projects =>
                 )} */}
