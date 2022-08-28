@@ -7,9 +7,7 @@ export default function Card(props) {
 
     return (
         <div className="container">
-            
-            {/* {props.projects.map(project => ( */}
-            
+                        
                 <div className="card" style={cardStyle} >
                     <img
                         
@@ -25,7 +23,7 @@ export default function Card(props) {
                         <p>Project ID: {props.id}</p>
                     </div>
             </div>
-                {/* ))} */}
+               
         </div>
     );
 }

@@ -22,10 +22,7 @@ export default function Portfolio() {
                 Below, please find a selection of my coding projects.  Included are lists of the technologies used, and rundowns/instructions for use/intention of each project.
             </p>
             <Project projects={projects} />
-          
         
-
-
         </div>
     );
 }
