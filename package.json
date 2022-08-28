@@ -1,6 +1,7 @@
 {
   "name": "portfolio1",
-  "homepage": "https://KristinaGlinoga.com",
+"homepage" : "https://kglinoga.github.io/portfolio1/",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
