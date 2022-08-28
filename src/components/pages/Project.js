@@ -11,7 +11,7 @@ const projects =
         id: 1
     },
     {
-        image: ".assets/webApp.jpg",
+        image: "./assets/webApp.jpg",
         title: "Application Two",
         description: "Describing Application Two! Selling it really really well so y'all wanna try it out!",
         deployedLink: "www.youtube.com",
