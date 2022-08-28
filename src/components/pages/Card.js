@@ -10,16 +10,15 @@ export default function Card(props) {
             <div className="card" style={cardStyle}>
                 <img
                     className="card-img-top"
-                    src="https://secure.img1-fg.wfcdn.com/im/07042854/resize-h445%5Ecompr-r85/4518/45180826/Wrapped+Canvas+Photograph.jpg"
+                    src={props.image}
                     alt="app screenshot"
-                />
-                <img
-                    className="card-img-top"
-                    src={`http://placecorgi.com/`}
-                    alt="Card cap"
                 />
                 <div className="card-body">
                     <h5 className="card-title"> {props.title}</h5>
+                    <p>{props.description}</p>
+                    <p>Find this project here: {props.deployedLink} </p>
+                    <p>Find this code here: {props.gitLink}</p>
+                    <p>Project ID: {props.id}</p>
                 </div>
             </div>
         </div>
