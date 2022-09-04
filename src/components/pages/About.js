@@ -4,7 +4,7 @@ export default function About() {
     return (
         <div className="container">
             <div className="row">
-                <div className="col-md-12">
+                <div className="col-md-12 title">
                     <h1>Welcome to my Portfolio!</h1>
                 </div>
             </div>

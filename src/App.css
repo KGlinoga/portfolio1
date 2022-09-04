@@ -1,25 +1,34 @@
 * {
-  background: #fdfcf5;
+  background: #F5CAC3;
   color: #673c48;
 }
 
 .header {
-  background: #F4ACB7;
-  color: #673c48;
+  background: #F28482;
+  /* color: #673c48; */
 
-  font-family: 'Abril Fatface', serif;
+  font-family: 'Lalezar';
+  font-size: 100px;
+  padding: 50px;
 
 }
 
 .header h4 {
-  background: #F4ACB7;
+  background: #F28482;
   color: #673c48;
+  text-align: center;
+}
+
+.title h1 {
+    font-size: 55px;
+    font-family: 'Lalezar';
+    padding: 1em;
 }
 
 .panel-footer {
   margin: 0;
   padding: 0;
-  background: #F4ACB7;
+  background: #F28482;
   color:#673c48;
 }
 

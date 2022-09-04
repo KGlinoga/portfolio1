@@ -4,6 +4,9 @@ import React from 'react';
 export default function Resume() {
     return (
         <div>
+            <div className="title">
+                <h1>Resume</h1>
+        </div>
             <p>Check out my <a href="./assets/Resume.pdf" target="_blank">resume here</a>!</p>
 
             <p>Drop me a line if you need a dev in:</p>
