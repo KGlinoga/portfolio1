@@ -15,7 +15,7 @@ export default function About() {
 
                 <div className="col-md-4 col-sm-6 col-xs-12 img img-responsive img-rounded">
                 
-                        <img src="./assets/avatar.png" alt="A friendly web dev with glasses and dark hair." className=""></img>
+                    <img src="https://previews.dropbox.com/p/thumb/ABrLF2e7PYABzbDIpFGu46Yfm1_dH0c4ZfnQZYHMX8TQ3inwphyge-6Em-dW0sao8p-9mQzeELShirGYRQfeiZBBgIt_sjOuPcHyWpcBqJlduyF-j0jBTLOjiGJSjM-4zhGz0Pw3Y9_7-akJEd76tBi930TZiFzg6hldIPYT96sP5fwImCTd7A6t-_i2bXkYv7bfRA3t0NYwbAt0y2v6myKKi47czdokuSD797sm6EmbDkwoFY8-gqcwNKFGd3bniZCJ_cBp9urROKZjr6M42OK4Y86cnakoxfxbkV7nBRmtrOcGQHrNp8IZLJgkdvRvGO52wusVMU2UftWMCBRNR-kavYKDgzkH1LfHzN9Z4WYLo7S0FdKguQswtmfLq7QSbv8/p.jpeg" alt="A friendly web dev with glasses and dark hair." className=""></img>
                 
                 </div>
             
