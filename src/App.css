@@ -1,6 +1,6 @@
 * {
   background: #F8ECEC;
-  color: #673c48;
+  color: #000000;
 }
 
 .header {
@@ -9,14 +9,14 @@
 
   font-family: '';
   font-size: 100px;
-  padding: 50px;
+  /* padding: ; */
 
 }
 
 .header h4 {
-  background: #F28482;
-  color: #673c48;
-  text-align: center;
+  /* background: #F8ECEC; */
+  color: #000000;
+  /* text-align: center; */
 }
 
 .title h1 {
@@ -29,7 +29,7 @@
   margin: 0;
   padding: 0;
   background: #F8ECEC;
-  color:#673c48;
+  color:#DB2D2D;
 }
 
 .body { padding-bottom: 120px; }
