@@ -17,7 +17,8 @@ export default function Card(props) {
                 />
                     <div className="card-body">
                         <h5 className="card-title"> {props.title}</h5>
-                        <p>{props.description}</p>
+                    <p>{props.description}</p>
+                    <p>Technologies Used: {props.techUsed}</p>
                         <p>Find this project here: {props.deployedLink} </p>
                         <p>Find this code here: {props.gitLink}</p>
                         <p>Project ID: {props.id}</p>
