@@ -15,7 +15,7 @@ export default function About() {
 
                 <div className="col-md-4 col-sm-6 col-xs-12 img img-responsive img-rounded">
                 
-                    <img src="https://drive.google.com/file/d/1QAJNV2gC90jH9hQb6UwOYPm_bTUtwcpr/view?usp=sharing" alt="A friendly web dev with glasses and dark hair." className=""></img>
+                    <img src="./assets/headshotSmall.jpg" alt="A friendly web dev with glasses and dark hair." className=""></img>
                 
                 </div>
             
