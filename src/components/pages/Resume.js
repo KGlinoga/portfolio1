@@ -9,7 +9,7 @@ export default function Resume() {
         </div>
             <p>Check out my <a href="./assets/Resume.pdf" target="_blank">resume here</a>!</p>
 
-            <p>Drop me a line if you need a dev in:</p>
+            <p>Drop me a line if you want help in: </p>
             <ul>
                 <li>HTML</li>
                 <li>CSS</li>
