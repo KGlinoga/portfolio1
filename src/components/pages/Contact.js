@@ -4,7 +4,7 @@ import React from 'react';
 export default function Contact() {
     return (
         <div className="title">
-            <h1>Contact Me</h1>
+            <h1 className="header">Contact Me</h1>
             <p>
                 Thank you for your time and consideration!
             </p>

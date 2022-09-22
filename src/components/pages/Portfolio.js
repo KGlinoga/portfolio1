@@ -21,6 +21,7 @@ export default function Portfolio() {
             <p>
                 Below, please find a selection of my coding projects.  Included are lists of the technologies used, and rundowns/instructions for use/intention of each project.
             </p>
+            <p>I built this portfolio website in React and hosted on GitHub Pages.</p>
             <Project />
         
         </div>

@@ -6,7 +6,6 @@
 .header {
   background: #F8ECEC;
   color: #DB2D2D;
-
   font-family: Optima, sans-serif;
   font-size: 100px;
   /* padding: ; */
@@ -17,12 +16,15 @@
   /* background: #F8ECEC; */
   color: #000000;
   font-family: copperplate, fantasy;
+
+
   /* text-align: center; */
 }
 
 .title h1 {
     font-size: 55px;
-    font-family: 'Lalezar';
+    color: #DB2D2D;
+    font-family: Optima, sans-serif;
     padding: 1em;
 }
 
