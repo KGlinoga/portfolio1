@@ -7,15 +7,16 @@
   background: #F8ECEC;
   color: #DB2D2D;
 
-  font-family: '';
+  font-family: Optima, sans-serif;
   font-size: 100px;
   /* padding: ; */
 
 }
 
-.header h4 {
+.header h6 {
   /* background: #F8ECEC; */
   color: #000000;
+  font-family: copperplate, fantasy;
   /* text-align: center; */
 }
 
