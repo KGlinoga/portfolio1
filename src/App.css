@@ -1,13 +1,13 @@
 * {
-  background: #F5CAC3;
+  background: #F8ECEC;
   color: #673c48;
 }
 
 .header {
-  background: #F28482;
-  /* color: #673c48; */
+  background: #F8ECEC;
+  color: #DB2D2D;
 
-  font-family: 'Lalezar';
+  font-family: '';
   font-size: 100px;
   padding: 50px;
 
@@ -28,7 +28,7 @@
 .panel-footer {
   margin: 0;
   padding: 0;
-  background: #F28482;
+  background: #F8ECEC;
   color:#673c48;
 }
 
