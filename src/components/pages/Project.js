@@ -3,30 +3,30 @@ import Card from './Card';
 
 const projects =
     [{
-        image: "./assets/webApp.jpg",
+        image: "./assets/portTN.png",
         title: "Note Taker App",
         description: "A web app that uses Express.js, and local storage to allow users to title, write, and save notes for themselves.  Notes persist even when the page is closed or refreshed, thanks to local storage!",
-        techUsed: "Express.js",
+        techUsed: "Express.js, HTML, CSS, JavaScript",
         deployedLink: "https://kglinoga.github.io/note-taker/",
         gitLink: "https://github.com/KGlinoga/note-taker",
         id: 1
     },
     {
-        image: "./assets/webApp.jpg",
-        title: "Application Two",
-        description: "Describing Application Two! Selling it really really well so y'all wanna try it out!",
-        techUsed: " ",
-        deployedLink: "www.youtube.com",
-        gitLink: "https://github.com/KGlinoga",
+        image: "./assets/concertopia.jpg",
+        title: "Concertopia",
+        description: "Concertopia is a web app for music lovers and event goers! Search for your favorite musical artists and see fun information about them and local events!",
+        techUsed: "HTML, CSS (Materialize), JavaScript, 3rd Party Web APIs (TicketMaster, The Audio DB, Lyrics.ovh, Open Cage Data Geocoder)",
+        deployedLink: "https://lpatino1.github.io/concertopia/",
+        gitLink: "https://github.com/lpatino1/concertopia",
         id: 2
         },
         {
-            image: "./assets/webApp.jpg",
-            title: "Application Three",
-            description: "Describing Application Three! Selling it really really well so y'all wanna try it out!",
-            techUsed: " ",
-            deployedLink: "www.youtube.com",
-            gitLink: "https://github.com/KGlinoga",
+            image: "./assets/sarApp.jpg",
+            title: "sarApp",
+            description: "sarApp is the Instagram of recipes, where users can share how to make their favorite dishes, and find new favorites by other users.  It's  inspired by the lack of representation in mainstream media and society of foods from different parts of the world. We wanted to create a project that would shine a light on cultures from around the world and show their delicious cuisines.",
+            techUsed: "JavaScript, SQL, MySQL2, Handlebars, Cloudinary, Coolors, heroku",
+            deployedLink: "https://sarapprecipes.herokuapp.com/",
+            gitLink: "https://github.com/anniech1/sarApp",
             id: 3
         },
         {
