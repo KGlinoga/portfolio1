@@ -39,7 +39,7 @@
   
   Please none.
 
-  Find me, kglinoga, this code and more on GitHub: <https://github.com/kglinoag>
+  Find me, kglinoga, this code and more on GitHub: <https://github.com/kglinoga>
 
   Email me any questions at <kglinoga@gmail.com>
 
