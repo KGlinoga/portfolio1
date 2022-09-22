@@ -24,18 +24,18 @@ const projects =
             image: "./assets/sarApp.jpg",
             title: "sarApp",
             description: "sarApp is the Instagram of recipes, where users can share how to make their favorite dishes, and find new favorites by other users.  It's  inspired by the lack of representation in mainstream media and society of foods from different parts of the world. We wanted to create a project that would shine a light on cultures from around the world and show their delicious cuisines.",
-            techUsed: "JavaScript, SQL, MySQL2, Handlebars, Cloudinary, Coolors, heroku",
+            techUsed: "JavaScript, SQL, MySQL2, Handlebars, Cloudinary, Coolors, Heroku, bcrypt for hashed passwords",
             deployedLink: "https://sarapprecipes.herokuapp.com/",
             gitLink: "https://github.com/anniech1/sarApp",
             id: 3
         },
         {
-            image: "./assets/webApp.jpg",
-            title: "Application Four",
-            description: "Describing Application Four! Selling it really really well so y'all wanna try it out!",
-            techUsed: " ",
-            deployedLink: "www.youtube.com",
-            gitLink: "https://github.com/KGlinoga",
+            image: "./assets/solit.png",
+            title: "So LIT",
+            description: "The book reviewing app for folks who know there's more to a book than a 5-star rating. *This app's front end is deployed to Netlify and is linked below.  Visit the listed GitHub link to visit the repo for the backend (currently deployed to Heroku, but will likely change in November 2022 due to Heroku's business model adjustments.",
+            techUsed: "React, SQL, MySQL, Coolors, Cloudinary, Material UI, Heroku, Netlify, JSON Web Token for log in security",
+            deployedLink: "https://candid-pithivier-78a46d.netlify.app/",
+            gitLink: "https://github.com/KGlinoga/solit-backend",
             id: 4
         },
         {
@@ -43,7 +43,7 @@ const projects =
             title: "Application Five",
             description: "Describing Application Five! Selling it really really well so y'all wanna try it out!",
             techUsed: " ",
-            deployedLink: "www.youtube.com",
+            deployedLink: "Coming Soon!",
             gitLink: "https://github.com/KGlinoga",
             id: 5
         },
@@ -52,7 +52,7 @@ const projects =
             title: "Application Six",
             description: "Describing Application Six! Selling it really really well so y'all wanna try it out!",
             techUsed: " ",
-            deployedLink: "www.youtube.com",
+            deployedLink: "Coming Soon!",
             gitLink: "https://github.com/KGlinoga",
             id: 6
         },
