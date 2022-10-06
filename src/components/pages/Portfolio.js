@@ -1,5 +1,5 @@
 import React from 'react';
-import Project from './Project';
+import Project from './sub-pages/Project';
 // import Project2 from './Project';
 
 // const projects = [
